@@ -71,7 +71,6 @@
 *   **Telegram:** [@legeon176](https://t.me/legeon176) (предпочтительный способ связи)
 *   **Email:** shokolov@list.ru
 *   **GitHub:** [github.com/Leg176](https://github.com/Leg176)
-*   **HeadHunter:** [Ссылка на твой профиль (если хочешь добавить)]
 
 ---
 
